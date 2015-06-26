@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "IgaworksNanoo"
-s.version      = "1.0.0"
+s.version      = "1.0"
 s.summary      = "IgaworksNanoo.framework"
 s.homepage     = "https://github.com/IGAWorksDev/IgaworksNanoo-iOS"
 
@@ -16,7 +16,7 @@ LICENSE
 }
 
 s.platform = :ios, '6.0'
-s.author       = { "wonje,song" => "wonje@igaworks.com" }
+s.author       = { "wonje,song" => "ricky@igaworks.com" }
 s.source       = { :git => "https://github.com/IGAWorksDev/IgaworksNanoo-iOS.git", :tag => "#{s.version}" }
 s.resources = "IgaworksNanoo.bundle"
 s.ios.vendored_frameworks = 'IgaworksNanoo.framework'
