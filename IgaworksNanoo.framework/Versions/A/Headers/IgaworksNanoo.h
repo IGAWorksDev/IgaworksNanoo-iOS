@@ -42,7 +42,7 @@
 
 /*!
  @abstract
- naoo fan page가 열리기 전에 호출된다.
+ nanoo fan page가 열리기 전에 호출된다.
  
  @discussion
  */
@@ -50,7 +50,7 @@
 
 /*!
  @abstract
- naoo fan page가 열린직 후 호출된다.
+ nanoo fan page가 열린직 후 호출된다.
  
  @discussion
  */
@@ -59,7 +59,7 @@
 
 /*!
  @abstract
- naoo fan page가 닫히기 전에 호출된다.
+ nanoo fan page가 닫히기 전에 호출된다.
  
  @discussion
  */
@@ -67,7 +67,7 @@
 
 /*!
  @abstract
- naoo fan page가 닫힌직 후 호출된다.
+ nanoo fan page가 닫힌직 후 호출된다.
  
  @discussion
  */
