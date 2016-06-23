@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "IgaworksNanoo"
-s.version      = "2.0.3"
+s.version      = "2.0.4"
 s.summary      = "IgaworksNanoo.framework"
 s.homepage     = "https://github.com/IGAWorksDev/IgaworksNanoo-iOS"
 
